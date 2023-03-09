@@ -1,2 +1,2 @@
-# scrubgui-releases
+# scrubgui
 modern-look retained-style gui library for gamemaker.
